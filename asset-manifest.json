@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-amazon-app-project/static/css/main.ec763d40.css",
+    "main.js": "/my-amazon-app-project/static/js/main.ab0c0a91.js",
+    "index.html": "/my-amazon-app-project/index.html",
+    "main.ec763d40.css.map": "/my-amazon-app-project/static/css/main.ec763d40.css.map",
+    "main.ab0c0a91.js.map": "/my-amazon-app-project/static/js/main.ab0c0a91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec763d40.css",
+    "static/js/main.ab0c0a91.js"
+  ]
+}
